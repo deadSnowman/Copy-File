@@ -1,6 +1,6 @@
 # Copy-File
 
-# HOW TO BUILD PROJECT
+HOW TO BUILD PROJECT
 
 To build the project, run "make", then "make clean"
 or run one of these in commandline:
@@ -16,7 +16,7 @@ For Windows 64
 
 
 
-# HOW TO RUN PROJECT
+HOW TO RUN PROJECT
 
 usage: cpfile [-i input_file] [-o output_file]
               [-h usage]
